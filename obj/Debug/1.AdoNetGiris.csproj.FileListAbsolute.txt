@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\bin\Debug\1.AdoNetGiris.exe.config
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\bin\Debug\1.AdoNetGiris.exe
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\bin\Debug\1.AdoNetGiris.pdb
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\obj\Debug\1.AdoNetGiris.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\obj\Debug\1.AdoNetGiris.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\obj\Debug\1.AdoNetGiris.exe
+C:\Users\LENOVO\Desktop\c# ders\1.AdoNetGiris\obj\Debug\1.AdoNetGiris.pdb
